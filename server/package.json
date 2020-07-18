@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "A Node api for interacting with the Raspberry Pi's hardware",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "action-pi"
+  },
+  "keywords": [
+    "node",
+    "python",
+    "raspberry",
+    "pi"
+  ],
+  "author": "Adam Fitzgibbon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
